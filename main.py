@@ -8,7 +8,7 @@ def view_graphical_interface(alignment):
     pass
 
 def highlight_code_lines(alignment):
-    pass
+    return None
 
 
 
