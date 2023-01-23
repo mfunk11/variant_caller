@@ -1,14 +1,11 @@
-def get_reference(genome_seq):
+def read_data(fastq_file):
+    with open(fastq_file, 'r') as file:
+        lines = f.readlines()
+        print(f"{file} has {len(lines)/4} reads.")
     pass
 
-def align_sequence(seq):
-    pass
 
-def view_graphical_interface(alignment):
-    pass
 
-def highlight_code_lines(alignment):
-    return None
 
 
 
