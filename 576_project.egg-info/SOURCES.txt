@@ -1,0 +1,9 @@
+README.md
+setup.py
+576_project.egg-info/PKG-INFO
+576_project.egg-info/SOURCES.txt
+576_project.egg-info/dependency_links.txt
+576_project.egg-info/top_level.txt
+mf_pkg/__init__.py
+mf_pkg/main.py
+mf_pkg/module1.py
