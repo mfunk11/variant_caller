@@ -7,3 +7,4 @@ setup.py
 mf_pkg/__init__.py
 mf_pkg/main.py
 mf_pkg/module1.py
+tests/test_function.py
