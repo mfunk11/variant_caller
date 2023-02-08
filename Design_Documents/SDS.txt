@@ -1,1 +1,5 @@
+I will use PyCharm for editing code files. 
 
+I will use the terminal on my local machine for testing. I will probably need to use a Mac or Linux System, or a remote desktop for running the code. I may use Great Lakes for further usage and implementation.
+
+A bam file and GFF will be about 30 GB total, so it will be easy to test on a personal hard drive. Files will be larger.
