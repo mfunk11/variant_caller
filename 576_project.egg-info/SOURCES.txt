@@ -5,6 +5,6 @@ setup.py
 576_project.egg-info/dependency_links.txt
 576_project.egg-info/top_level.txt
 mf_pkg/__init__.py
-mf_pkg/main.py
 mf_pkg/module1.py
+mf_pkg/star.py
 tests/test_function.py
