@@ -3,6 +3,7 @@ import gatk
 import argparse
 from datetime import datetime
 
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--name", help= 'The name of the sample.', default=f"{datetime.now()}-run")
 parser.add_argument("--fastq1", help='A fastq file.', required=True)
