@@ -1,5 +1,4 @@
 
-from mf_pkg import main
 import urllib.request
 import gzip
 import shutil
