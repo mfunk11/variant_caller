@@ -19,6 +19,6 @@ if args.fastq2 is None:
 else:
     star.run_star2(args.gtf, args.ref, args.fastq1, args.fastq2)
 
-star.run_star()
+
 gatk.run_gatk(args.name, f"{args.name}.bam.sortedByCoordinate", args.ref, args.bed)
 

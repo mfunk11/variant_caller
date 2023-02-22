@@ -1,6 +1,6 @@
 from mf_pkg import main
 
-
+#ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR181/008/SRR18117708/SRR18117708_1.fastq.gz
 #def test_compute_dist_gen():
     #num1 = 2
     #num2 = 7

@@ -1,0 +1,1 @@
+python main.py --name arabidopsis-test1 --fastq1 ../../SRR18117708_1.fastq --fastq2 ../../SRR18117708_2.fastq --gtf ../../TAIR10_GFF3_genes.gff --ref ../../TAIR10_chr_all.fas --bed arabidopsis_thaliana.vcf
