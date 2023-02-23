@@ -1,10 +1,10 @@
 Project Input: Single or Paired end fastq files; reference genome
 Project Output: Genome Browser Pop-up Window with highlighted variants
 
-[x] Task 1: Develop the Alignment Pipeline
- [x] 1.1 - write code to generate index in STAR
-   [x] 1.1.1- use STAR reference genome
- [x] 1.2 - write code to generate alignment in STAR
+- [x] Task 1: Develop the Alignment Pipeline
+ - [x] 1.1 - write code to generate index in STAR
+   - [x] 1.1.1- use STAR reference genome
+ - [x] 1.2 - write code to generate alignment in STAR
  [x] 1.3 - Test
   [x] 1.3.1 - Download TAIR10 Reference Genome and fastq files from Arabidopsis and test.
  [x] 1.4 - Completion Criteria: Should create sorted BAM file
