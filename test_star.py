@@ -21,6 +21,7 @@ class TestSTAR(unittest.TestCase):
 	print(datetime.now() + ' Second fastq file copied.') 
         gtf = urllib.request.urlopen('https://www.arabidopsis.org/download_files/Genes/TAIR10_genome_release/TAIR10_chromosome_files/TAIR10_chr_all.fas.gz')
         ref_url = urllib.request.urlopen('https://www.arabidopsis.org/download_files/Genes/TAIR10_genome_release/TAIR10_chromosome_files/TAIR10_chr_all.fas.gz')
+	
 <<<<<<< HEAD
 	print(datetime.now() + 'Reference file read in.')
         with gzip.open(ref_url, 'rb') as f_in_ref:
