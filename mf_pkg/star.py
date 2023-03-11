@@ -13,7 +13,8 @@ def run_star1(gtf, ref, fastq_file):
 	else:
 		cmd = f"star --runThreadN 6 --runMode genomeGenerate --genomeDir . --genomeFastaFiles {ref} --sjdbGTFfile {gtf} --sjdbOverhang 100"
 		cmd2 = f"star --runThreadN 4 --runMode alignReads --genomeDir . --readFilesIn {fastq_file}"
-		os.system(cmd, cmd2)
+		os.system(cmd)
+		os.system(cmd2)
 		return cmd, cmd2
 
 def run_star2(gtf, ref, fastq_1, fastq_2):

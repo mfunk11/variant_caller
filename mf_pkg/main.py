@@ -1,5 +1,5 @@
-import mf_pkg.star
-import mf_pkg.gatk
+import mf_pkg.star as star
+import mf_pkg.gatk as gatk
 import argparse
 from datetime import datetime
 
